@@ -24,9 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p><img width="1127" alt="Screenshot 2025-03-27 at 7 12 20 PM" src="https://github.com/user-attachments/assets/c767acd1-bae4-4017-949e-612b5394394f" />
 <p>
 Upon creating the virtual machine (VM) in Microsoft Azure and logging into it through the Windows App, I began the process of downloading the osTicket installation zip files on the desktop. I went to the Search bar and entered "Control Panel" > clicked on "Uninstall Programs" > clicked on "Turn Windows features on or off" > scrolled down to 
 </p>
