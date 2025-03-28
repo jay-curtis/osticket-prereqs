@@ -31,7 +31,7 @@ Upon creating the virtual machine (VM) in Microsoft Azure and logging into it th
 
 <p><img width="831" alt="Screenshot 2025-03-28 at 12 59 46 PM" src="https://github.com/user-attachments/assets/97bb8e16-f108-40fe-a425-c610eefc9de5" />
 <p>
-Following the initial download of the osTicket installation files, I began downloading each major application and component needed for successful deployment of osTicket (PHP Manager, Rewrite Module, C++ Redistributable, mySQL, etc.).I 
+Following the initial download of the osTicket installation files, I began downloading each major application and component needed for successful deployment of osTicket (PHP Manager, Rewrite Module, C++ Redistributable, mySQL, etc.). I proceeded forward by establishing the mySQL server with the typical set-up and standard security configuration through Configuartion Wizard. I then created a root username and password
 </p>
 <br />
 
