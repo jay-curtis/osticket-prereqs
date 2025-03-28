@@ -38,7 +38,7 @@ Following the initial download of the osTicket installation files, I began downl
 <p>
 <img width="1120" alt="Screenshot 2025-03-28 at 3 31 09 PM" src="https://github.com/user-attachments/assets/6bc961de-2b37-44fd-b8b2-5f32dbafe6bd" />
 <p>
-With most of the osTicket installation files downloaded, I started the installation of osTicket v.1.15.8 from its zip file and uploaded the automated "upload" folder into the "wwwroot" folder ("Windows C:" > "inetpub" > "wwwroot"). I then renamed the "upload" file to "osTicket." I once again stopped and started the Internet Information Services (IIS) through IIS Manager. 
+With most of the osTicket installation files downloaded, I started the installation of osTicket v.1.15.8 from its zip file and uploaded the automated "upload" folder into the "wwwroot" folder ("Windows C:" > "inetpub" > "wwwroot"). I then renamed the "upload" file to "osTicket." I once again stopped and started the Internet Information Services (IIS) through IIS Manager in Administrator mode. 
 </p>
 <br />
 <br /># osticket-prereqs
