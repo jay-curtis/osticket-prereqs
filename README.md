@@ -32,7 +32,7 @@ Upon creating the virtual machine (VM) in Microsoft Azure and logging into it th
 
 <p><img width="831" alt="Screenshot 2025-03-28 at 12 59 46 PM" src="https://github.com/user-attachments/assets/97bb8e16-f108-40fe-a425-c610eefc9de5" />
 <p>
-Following the initial download of the osTicket installation files, I began downloading each major
+Following the initial download of the osTicket installation files, I began downloading each major application needed for successful deployment of osTicket (PHP Manager, Rewrite Module, C++ Redistributable, mySQL, etc.).
 </p>
 <br />
 
