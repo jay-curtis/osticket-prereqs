@@ -41,7 +41,7 @@ Following the initial download of the osTicket installation files, I began downl
 With most of the osTicket installation files downloaded, I started the installation of osTicket v.1.15.8 from its zip file and uploaded the automated "upload" folder into the "wwwroot" folder ("Windows C:" > "inetpub" > "wwwroot"). I then renamed the "upload" file to "osTicket." I once again stopped and started the Internet Information Services (IIS) through IIS Manager in Administrator mode. 
 </p><img width="1680" alt="Screenshot 2025-03-28 at 4 12 25 PM" src="https://github.com/user-attachments/assets/c56e9003-4142-483e-b665-7282fcc7e9a0" />
 <p>
-Still in Administator mode of IIS Manager, I opened the "Sites" folder > "Default Web Site" folder > and then clicked "osTicket" folder. I subsequently double-clicked the browse folder "Browse *:80 (http)," which launched the webpage to the "osTicket Installer." From there, I enabled the three necessary remaining extensions for osTicket (php_imap.dll, php_intl.dll, php_opcache.dll).
+Still in Administator mode of IIS Manager, I opened the "Sites" folder > "Default Web Site" folder > and then clicked "osTicket" folder. I subsequently double-clicked the browse folder "Browse *:80 (http)," which launched the webpage to the "osTicket Installer." From there, I enabled the three necessary remaining extensions for osTicket (php_imap.dll, php_intl.dll, php_opcache.dll) through PHP Manager and then refreshed the "osTicket Installer" browser page.
 </p>
 <br />
 <br /># osticket-prereqs
