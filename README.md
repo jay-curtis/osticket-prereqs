@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services (IIS)
 - Install Required osTicket Applications and Components
-- Configure Permissions and Install osTicket
+- Install osTicket and Configure Permissions
 
 <h2>Installation Steps</h2>
 
@@ -38,7 +38,7 @@ Following the initial download of the osTicket installation files, I began downl
 <p>
 <img width="1120" alt="Screenshot 2025-03-28 at 3 31 09 PM" src="https://github.com/user-attachments/assets/6bc961de-2b37-44fd-b8b2-5f32dbafe6bd" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 <br /># osticket-prereqs
