@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Services (IIS)
-- Install Web Platform Installer
+- Install Required osTicket Applications and Components
 - Install mySQL, then Set Up Username and Password
 - Configure Permissions and Install osTicket
 
@@ -32,7 +32,7 @@ Upon creating the virtual machine (VM) in Microsoft Azure and logging into it th
 
 <p><img width="831" alt="Screenshot 2025-03-28 at 12 59 46 PM" src="https://github.com/user-attachments/assets/97bb8e16-f108-40fe-a425-c610eefc9de5" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Following the initial download of the osTicket installation files, I began downloading each major
 </p>
 <br />
 
