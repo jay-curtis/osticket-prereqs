@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services (IIS)
 - Install Required osTicket Applications and Components
-- Install mySQL, then Set Up Username and Password
+- After Installation of mySQL, then Set Up Username and Password
 - Configure Permissions and Install osTicket
 
 <h2>Installation Steps</h2>
