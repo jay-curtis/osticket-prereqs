@@ -42,4 +42,4 @@ With most of the osTicket installation files downloaded, I started the installat
 Still in Administator mode of IIS Manager, I opened the "Sites" folder > "Default Web Site" folder > and then clicked "osTicket" folder. I subsequently double-clicked the browse folder "Browse *:80 (http)," which launched the webpage to the "osTicket Installer." From there, I enabled the three necessary remaining extensions for osTicket (php_imap.dll, php_intl.dll, php_opcache.dll) through PHP Manager and then refreshed the "osTicket Installer" browser page. I then renamed the "ost-sampleconfig.php" folder to "ost-config.php ("Windows C:" > "inetpub" > "wwwroot" > "osticket" > "include" > "ost-sampleconfig.php"). I also right-clicked to rename the folder and right-clicked to "Properties" to assign permissions to select users. Having established the necessary extensions and configurations thus far, I created my osTicket administrator account with the helpdesk name, email, and recently installed "HeidiSQL" with a database named "osTicket."
 </p>
 <br />
-<br /># osticket-prereqs
+
