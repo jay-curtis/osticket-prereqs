@@ -3,11 +3,11 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This lesson delineates the beginning requirements and installation steps of the osTicket help desk platform.<br />
+This lesson delineates the starting requirements and installation steps of the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine)
+- Microsoft Azure's Virtual Machine Platform
 - Microsoft Windows App
 - Internet Information Services (IIS)
 
