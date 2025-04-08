@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Starting Requirements and Installation</h1>
 This lesson delineates the starting requirements and installation steps of the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -15,7 +15,7 @@ This lesson delineates the starting requirements and installation steps of the o
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Starting Requirement Steps</h2>
 
 - Enable Internet Information Services (IIS)
 - Install Required osTicket Applications and Components
